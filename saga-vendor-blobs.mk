@@ -52,6 +52,14 @@ PRODUCT_COPY_FILES += \
     vendor/htc/saga/proprietary/libaudioalsa.so:/system/lib/libaudioalsa.so \
     vendor/htc/saga/proprietary/libC2D2.so:/system/lib/libC2D2.so \
     vendor/htc/saga/proprietary/libcamera.so:/system/lib/libcamera.so \
+    vendor/htc/saga/proprietary/liboemcamera.so:/system/lib/liboemcamera.so \
+    vendor/htc/saga/proprietary/camera.default.so:/system/lib/hw/camera.default.so \
+    vendor/htc/saga/proprietary/libOlaEngine.so:/system/lib/libOlaEngine.so \
+    vendor/htc/saga/proprietary/libcamera_client.so:/system/lib/libcamera_client.so \
+    vendor/htc/saga/proprietary/libcameraface.so:/system/lib/libcameraface.so \
+    vendor/htc/saga/proprietary/libcamerapp.so:/system/lib/libcamerapp.so \
+    vendor/htc/saga/proprietary/libchromatix_s5k4e1gx_default_video.so:/system/lib/libchromatix_s5k4e1gx_default_video.so \
+    vendor/htc/saga/proprietary/libchromatix_s5k4e1gx_preview.so:/system/lib/libchromatix_s5k4e1gx_preview.so \
     vendor/htc/saga/proprietary/libgemini.so:/system/lib/libgemini.so \
     vendor/htc/saga/proprietary/libgsl.so:/system/lib/libgsl.so \
     vendor/htc/saga/proprietary/libhtc_acoustic.so:/system/lib/libhtc_acoustic.so \
